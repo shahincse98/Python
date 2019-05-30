@@ -1,5 +1,3 @@
-# কোড 
-
 num = int(input('Enter a number: '))
 c = 0
 if num > 1:
